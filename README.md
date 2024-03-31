@@ -23,7 +23,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safihyder&show_icons=true&locale=en" alt="safihyder" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safihyder&show_icons=true&locale=en&layout=compact" alt="safihyder" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safihyder&" alt="safihyder" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=safihyder" alt="safihyder" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safihyder&show_icons=true&locale=en&layout=compact" alt="safihyder" /></p>
+
