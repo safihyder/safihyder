@@ -3,8 +3,7 @@
 
 
 
-- 👨‍💻 Some of my projects are available at https://safihyder.github.io/myPortfolio/
-
+- 👨‍💻 Some of my projects are available at https://my-portfolio-tawny-three-51.vercel.app/
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **safihaider0987@gmail.com**
