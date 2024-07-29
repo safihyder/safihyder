@@ -3,7 +3,7 @@
 
 
 
-- 👨‍💻 Some of my projects are available at ((https://safihyder.github.io/myPortfolio/))
+- 👨‍💻 Some of my projects are available at https://safihyder.github.io/myPortfolio/
 
 - 💬 Ask me about **Web Development**
 
