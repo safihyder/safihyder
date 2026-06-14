@@ -84,8 +84,14 @@
 <div align="center">
   <!-- Top Trophies Layout -->
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=safihyder&theme=tokyonight" alt="System Trophies" />
+  <a href="https://github.com/safihyder">
+    <img src="https://img.shields.io/github/followers/safihyder?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
+  </a>
+  <a href="https://github.com/safihyder">
+    <img src="https://img.shields.io/github/stars/safihyder?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
+  </a>
+  <a href="https://github.com/safihyder">
+    <img src="https://img.shields.io/github/directory-dependents/safihyder?label=Deployments&style=for-the-badge&color=7dcfff&logo=github" />
   </a>
 </p>
 </div>
