@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Deployments
+## 🚀 Featured Deployments & Initiatives
 
 ### 📱 Townpulse
 ```text
