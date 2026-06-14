@@ -91,7 +91,7 @@
     <img src="https://img.shields.io/github/stars/safihyder?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
   </a>
   <a href="https://github.com/safihyder">
-    <img src="https://img.shields.io/github/directory-dependents/safihyder?label=Deployments&style=for-the-badge&color=7dcfff&logo=github" />
+    <img src="https://img.shields.io/github/repos/safihyder?label=Repositories&style=for-the-badge&color=7dcfff&logo=github" />
   </a>
 </p>
 </div>
