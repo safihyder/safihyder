@@ -83,9 +83,11 @@
 
 <div align="center">
   <!-- Top Trophies Layout -->
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=safihyder&theme=tokyonight&margin-w=15&no-bg=true" width="100%" alt="System Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=safihyder&theme=tokyonight" alt="System Trophies" />
   </a>
+</p>
 </div>
 
 <br />
