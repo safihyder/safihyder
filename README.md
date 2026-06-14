@@ -1,59 +1,117 @@
-<!-- HERO SECTION -->
+<!-- HEADER / HERO SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Safi%20Hyder&fontSize=80&fontAlignY=35&desc=Full-Stack%20Developer%20%26%20Digital%20Creator&descAlignY=65" />
-</div>
-
-<div align="center">
-  <p>🚀 Transforming complex problems into elegant, user-centric web & mobile experiences.</p>
+  <!-- Dynamic SaaS-style animated gradient banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Safi%20Hyder&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Digital%20Creator&descAlignY=60&sideMargin=0&theme=tokyonight" width="100%" />
   
-  <a href="https://linkedin.com/in/safi-hyder-514315219">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:safihaider0987@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p align="center">
+    <strong>Architecting interactive, secure ecosystems for web and mobile platforms.</strong>
+  </p>
+
+  <!-- Navigation / CTAs -->
+  <p align="center">
+    <a href="mailto:safihaider0987@gmail.com">
+      <img src="https://img.shields.io/badge/Get_In_Touch-safihaider0987%40gmail.com-2f74e5?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/safi-hyder-514315219" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/safi_hyder_kazmi" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://codepen.io/safihyder" target="_blank">
+      <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+    </a>
+  </p>
 </div>
 
----
+<br />
 
-## 💼 Featured Work
-*A look at my recent impact-driven projects.*
+<!-- SECTION: CORE ARCHITECTURE / BIO -->
+## 🌐 Core Architecture
+> High-performance developer focused on clean code, secure document authentication systems, and seamless user experiences from Jammu & Kashmir.
 
-<table border="0">
+*   🔭 **Active Deployment:** Scalable cross-platform systems and integrated digital infrastructure.
+*   ⚡ **Core Principle:** Optimization isn't an afterthought; it's baked into the initial layout.
+*   🛠️ **Integrations:** Smooth third-party API configurations and robust state management.
+
+<br />
+
+<!-- SECTION: PORTFOLIO SHOWCASE (CARD GRID LAYOUT) -->
+## 🚀 Featured Deployments (Projects)
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📱 Townpulse</h3>
-      <p>A full-featured food delivery platform with real-time logistics.</p>
-      <p><b>Stack:</b> React Native, Appwrite, Razorpay</p>
+    <!-- Project Card 1 -->
+    <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #414868; border-radius: 8px;" valign="top">
+      <h3 align="left">📱 Townpulse</h3>
+      <p align="left"><font color="#a9b1d6">A dynamic, high-performance food delivery platform designed to streamline local commerce, ordering lifecycles, and backend fulfillment.</font></p>
+      <br />
+      <p align="left">
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razorpay-0B72E7?style=flat&logo=razorpay&logoColor=white" />
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🚗 Secure Ride-Share</h3>
-      <p>A trust-focused platform for verified vehicle owners and passengers.</p>
-      <p><b>Stack:</b> MERN, Razorpay, Document Auth</p>
+    <!-- Project Card 2 -->
+    <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #414868; border-radius: 8px;" valign="top">
+      <h3 align="left">🚗 Secure Ride-Share</h3>
+      <p align="left"><font color="#a9b1d6">A secure, trust-oriented ride-sharing web app enabling authenticated peer-to-peer transport options with strict identity verification parameters.</font></p>
+      <br />
+      <p align="left">
+        <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Razorpay-0B72E7?style=flat&logo=razorpay&logoColor=white" />
+        <img src="https://img.shields.io/badge/Identity_Auth-4CAF50?style=flat" />
+      </p>
     </td>
   </tr>
 </table>
 
----
+<br />
 
-## 🛠️ Technical Toolkit
-*The engine powering my builds.*
+<!-- SECTION: TECH TOOLKIT BACKGROUND -->
+## 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,figma,git,python,mysql" />
+  <!-- Interactive, pixel-perfect icon layout grouping your actual stack seamlessly -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,bootstrap,figma,git,python,mysql,php&perline=7" />
 </div>
 
----
+<br />
 
-## 📊 Developer Insights
+<!-- SECTION: METRICS & SYSTEM INSIGHTS -->
+## 📊 Analytics Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=safihyder&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safihyder&theme=tokyonight" height="150" />
+  <!-- Top Trophies Layout -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=safihyder&theme=tokyonight&margin-w=15&no-bg=true" width="100%" alt="System Trophies" />
+  </a>
 </div>
 
----
+<br />
 
+<table width="100%" border="0" cellpadding="0" cellspacing="5">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=safihyder&show_icons=true&locale=en&theme=tokyonight&bg_color=1a1b26&border_color=414868&hide_border=false" width="100%" alt="Main Stats" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safihyder&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=1a1b26&border_color=414868&hide_border=false" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <br />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=safihyder&theme=tokyonight&background=1a1b26&border=414868&hide_border=false" width="100%" alt="Commit Streak" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- FOOTER -->
+<hr />
 <div align="center">
-  <sub>Built with passion by Safi Hyder</sub>
+  <p><font color="#565f89">© 2026 Safi Hyder. Designed to perform.</font></p>
+  <img src="https://komarev.com/ghpvc/?username=safihyder&label=System%20Traffic&color=7aa2f7&style=flat-square" alt="Traffic Monitor" />
 </div>
