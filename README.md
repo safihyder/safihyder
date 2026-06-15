@@ -47,7 +47,7 @@ Developed a comprehensive food delivery platform using React and Appwrite backen
 ### 🏛️ BGSBU Official Website Development (Team Leader)
 Led the development team responsible for designing, developing, and maintaining sections of the official website of Baba Ghulam Shah Badshah University (BGSBU). Coordinated development activities, delegated tasks, reviewed implementations, and ensured timely delivery of features. Contributed to development while collaborating with team members to enhance the university's digital presence and user experience.
 *   `Team Leadership` `Web Architecture` `UI/UX Enhancements`
-*   *Developer Recognition:* BGSBU Developers Page
+*   *Developer Recognition:* [BGSBU Developers Page](https://bgsbu.ac.in/developers)
 
 ### 💼 Password Manager using MERN Stack
 Built a password manager application with MongoDB, Express, React, and Node.js, focusing on secure password storage and user-friendly management.
