@@ -1,122 +1,68 @@
-<!-- HEADER / HERO SECTION -->
-<div align="center">
-  <!-- Dynamic SaaS-style animated gradient banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=280&section=header&text=Safi%20Hyder&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Digital%20Creator&descAlignY=60&sideMargin=0&theme=tokyonight" width="100%" />
-  
-  <p align="center">
-    <strong>Architecting interactive, secure ecosystems for web and mobile platforms.</strong>
-  </p>
+# SAFI HYDER
+**Full-Stack Developer & Software Engineer**  
+📱 +91-7889365127 | 📧 safihaider0987@gmail.com  
+🌐 [LinkedIn](https://linkedin.com/in/safi-hyder-514315219) | 🐙 [GitHub](https://github.com/safihyder)
 
-  <!-- Navigation / CTAs -->
-  <p align="center">
-    <a href="mailto:safihaider0987@gmail.com">
-      <img src="https://img.shields.io/badge/Get_In_Touch-safihaider0987%40gmail.com-2f74e5?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/safi-hyder-514315219" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/safi_hyder_kazmi" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://codepen.io/safihyder" target="_blank">
-      <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-    </a>
-  </p>
-</div>
+---
 
-<br />
+## 🛠️ TECHNICAL SKILLS
 
-<!-- SECTION: CORE ARCHITECTURE / BIO -->
-## 🌐 Core Architecture
-> High-performance developer focused on clean code, secure document authentication systems, and seamless user experiences from Jammu & Kashmir.
+*   **Languages:** C, C++, Python, JavaScript, Java, PHP, HTML, CSS
+*   **Frameworks & Tools:** MERN Stack (MongoDB, Express, React, Node.js), JWT, Multer, Cloudinary
+*   **Developer Ecosystem:** GitHub, Visual Studio Code, Vibe Coding
 
-*   🔭 **Active Deployment:** Scalable cross-platform systems and integrated digital infrastructure.
-*   ⚡ **Core Principle:** Optimization isn't an afterthought; it's baked into the initial layout.
-*   🛠️ **Integrations:** Smooth third-party API configurations and robust state management.
+---
 
-<br />
+## 🚀 ENTERPRISE & OPEN-SOURCE PROJECTS
 
-<!-- SECTION: PORTFOLIO SHOWCASE (CARD GRID LAYOUT) -->
-## 🚀 Featured Deployments (Projects)
+### 📱 Townpulse | *Food Delivery Platform*
+> **Core Stack:** React, Appwrite (BaaS), Capacitor
+*   Engineered a comprehensive food delivery ecosystem with cross-platform mobile app deployment.
+*   Architected a **multi-role access layout** featuring four dedicated dashboards (Customer, Restaurant, Delivery Partner, and Admin).
+*   Integrated production-ready payment processing, geolocation-based live order tracking, and real-time backend order management lifecycles.
 
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <!-- Project Card 1 -->
-    <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #414868; border-radius: 8px;" valign="top">
-      <h3 align="left">📱 Townpulse</h3>
-      <p align="left"><font color="#a9b1d6">A dynamic, high-performance food delivery platform designed to streamline local commerce, ordering lifecycles, and backend fulfillment.</font></p>
-      <br />
-      <p align="left">
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Appwrite-FD366E?style=flat&logo=appwrite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Razorpay-0B72E7?style=flat&logo=razorpay&logoColor=white" />
-      </p>
-    </td>
-    <!-- Project Card 2 -->
-    <td width="50%" bgcolor="#1a1b26" style="border: 1px solid #414868; border-radius: 8px;" valign="top">
-      <h3 align="left">🚗 Secure Ride-Share</h3>
-      <p align="left"><font color="#a9b1d6">A secure, trust-oriented ride-sharing web app enabling authenticated peer-to-peer transport options with strict identity verification parameters.</font></p>
-      <br />
-      <p align="left">
-        <img src="https://img.shields.io/badge/MERN_Stack-20232A?style=flat&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Razorpay-0B72E7?style=flat&logo=razorpay&logoColor=white" />
-        <img src="https://img.shields.io/badge/Identity_Auth-4CAF50?style=flat" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🏛️ BGSBU Official Website Development | *Team Leader*
+> **Core Focus:** Project Management, Full-Stack Architecture, Digital Infrastructure
+*   Led the engineering team responsible for designing, building, and scaling critical sections of the official **Baba Ghulam Shah Badshah University** website.
+*   Coordinated development sprints, delegated tasks, reviewed pull requests, and ensured clean feature delivery.
+*   *Official Recognition:* Maintained a documented contribution on the official **BGSBU Developers Page**.
 
-<br />
+### 💼 Password Manager | *MERN Stack*
+*   Built a local password manager utilizing MongoDB, Express, React, and Node.js.
+*   Focused strictly on secure database storage principles and intuitive UI credential management.
 
-<!-- SECTION: TECH TOOLKIT BACKGROUND -->
-## 🛠️ Tech Stack & Ecosystem
+### 🔐 Token-Based Authentication System | *MERN Stack*
+*   Developed an independent, secure authentication framework using the MERN stack.
+*   Implemented **JSON Web Tokens (JWT)** to manage secure, encrypted user sessions and route protection.
 
-<div align="center">
-  <!-- Interactive, pixel-perfect icon layout grouping your actual stack seamlessly -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,bootstrap,figma,git,python,mysql,php&perline=7" />
-</div>
+### ✍️ Production Blog Application | *React & Appwrite*
+> **Core Stack:** React, Appwrite, Redux, React-Hook-Form, TinyMCE
+*   Built a highly dynamic blogging app leveraging Appwrite for production authentication and database collections.
+*   Utilized **Redux** for global state management (login states, active posts data) and integrated TinyMCE as a rich-text editor.
 
-<br />
+### 🖼️ Cloud User Image Uploader | *Backend Integration*
+*   Created a high-performance media upload pipeline using **Multer** and **Cloudinary**.
+*   Integrated backend API handlers to parse multi-part form data and instantly retrieve cloud-hosted image assets.
 
-<!-- SECTION: METRICS & SYSTEM INSIGHTS -->
-## 📊 Analytics Dashboard
+---
 
-<div align="center">
-  <!-- Top Trophies Layout -->
-<p align="center">
-  <a href="https://github.com/safihyder">
-    <img src="https://img.shields.io/github/followers/safihyder?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
-  </a>
-  <a href="https://github.com/safihyder">
-    <img src="https://img.shields.io/github/stars/safihyder?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
-  </a>
-</p>
-</div>
+## 🎓 EDUCATION
 
-<br />
+🎓 **Master of Computer Applications (MCA)**  
+*Baba Ghulam Shah Badshah University (BGSBU) — Rajouri*  
+📅 **Expected Graduation:** 2027
 
-<table width="100%" border="0" cellpadding="0" cellspacing="5">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=safihyder&show_icons=true&locale=en&theme=tokyonight&bg_color=1a1b26&border_color=414868&hide_border=false" width="100%" alt="Main Stats" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=safihyder&show_icons=true&locale=en&layout=compact&theme=tokyonight&bg_color=1a1b26&border_color=414868&hide_border=false" width="100%" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=safihyder&theme=tokyonight&background=1a1b26&border=414868&hide_border=false" width="100%" alt="Commit Streak" />
-    </td>
-  </tr>
-</table>
+🎓 **Bachelor of Computer Applications (BCA)**  
+*Shri Krishan Chander Govt. Degree College — Poonch*  
+📅 **Graduation Year:** 2025
 
-<br />
+🎓 **Higher Secondary Education (10+2)**  
+*Govt Boys Higher Secondary School — Poonch*  
+📅 **Graduation Year:** 2021
 
-<!-- FOOTER -->
-<hr />
-<div align="center">
-  <p><font color="#565f89">© 2026 Safi Hyder. Designed to perform.</font></p>
-  <img src="https://komarev.com/ghpvc/?username=safihyder&label=System%20Traffic&color=7aa2f7&style=flat-square" alt="Traffic Monitor" />
-</div>
+---
+
+## 📜 PROFESSIONAL CERTIFICATIONS
+
+*   🥇 **JavaScript Algorithms and Data Structures** — [FreeCodeCamp Certification](https://www.freecodecamp.org/certification/safihyder/javascript-algorithms-and-data-structures) *(March 2023)*
+*   🥇 **Responsive Web Design** — [FreeCodeCamp Certification](https://www.freecodecamp.org/certification/safihyder/responsive-web-design) *(August 2022)*
