@@ -1,68 +1,46 @@
-# SAFI HYDER
-**Full-Stack Developer & Software Engineer**  
-📱 +91-7889365127 | 📧 safihaider0987@gmail.com  
-🌐 [LinkedIn](https://linkedin.com/in/safi-hyder-514315219) | 🐙 [GitHub](https://github.com/safihyder)
+<!-- HEADER / HERO SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Safi%20Hyder&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Software%20Developer&descAlignY=60&sideMargin=0&theme=tokyonight" width="100%" />
+  
+  <p align="center">
+    <strong>Building high-performance, secure web applications and cross-platform mobile ecosystems.</strong>
+  </p>
+
+  <!-- Navigation / CTAs -->
+  <p align="center">
+    <a href="mailto:safihaider0987@gmail.com">
+      <img src="https://img.shields.io/badge/Get_In_Touch-+91--7889365127-2f74e5?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/safi-hyder-514315219" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/safihyder" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## 🛠️ TECHNICAL SKILLS
+## 🛠️ Tech Stack & Ecosystem
 
-*   **Languages:** C, C++, Python, JavaScript, Java, PHP, HTML, CSS
-*   **Frameworks & Tools:** MERN Stack (MongoDB, Express, React, Node.js), JWT, Multer, Cloudinary
-*   **Developer Ecosystem:** GitHub, Visual Studio Code, Vibe Coding
+<div align="center">
+  <!-- Grouping all your programming languages and frameworks natively -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,bootstrap,figma,git,python,c,cpp,java,mysql,php&perline=8" />
+</div>
 
----
+<br />
 
-## 🚀 ENTERPRISE & OPEN-SOURCE PROJECTS
-
-### 📱 Townpulse | *Food Delivery Platform*
-> **Core Stack:** React, Appwrite (BaaS), Capacitor
-*   Engineered a comprehensive food delivery ecosystem with cross-platform mobile app deployment.
-*   Architected a **multi-role access layout** featuring four dedicated dashboards (Customer, Restaurant, Delivery Partner, and Admin).
-*   Integrated production-ready payment processing, geolocation-based live order tracking, and real-time backend order management lifecycles.
-
-### 🏛️ BGSBU Official Website Development | *Team Leader*
-> **Core Focus:** Project Management, Full-Stack Architecture, Digital Infrastructure
-*   Led the engineering team responsible for designing, building, and scaling critical sections of the official **Baba Ghulam Shah Badshah University** website.
-*   Coordinated development sprints, delegated tasks, reviewed pull requests, and ensured clean feature delivery.
-*   *Official Recognition:* Maintained a documented contribution on the official **BGSBU Developers Page**.
-
-### 💼 Password Manager | *MERN Stack*
-*   Built a local password manager utilizing MongoDB, Express, React, and Node.js.
-*   Focused strictly on secure database storage principles and intuitive UI credential management.
-
-### 🔐 Token-Based Authentication System | *MERN Stack*
-*   Developed an independent, secure authentication framework using the MERN stack.
-*   Implemented **JSON Web Tokens (JWT)** to manage secure, encrypted user sessions and route protection.
-
-### ✍️ Production Blog Application | *React & Appwrite*
-> **Core Stack:** React, Appwrite, Redux, React-Hook-Form, TinyMCE
-*   Built a highly dynamic blogging app leveraging Appwrite for production authentication and database collections.
-*   Utilized **Redux** for global state management (login states, active posts data) and integrated TinyMCE as a rich-text editor.
-
-### 🖼️ Cloud User Image Uploader | *Backend Integration*
-*   Created a high-performance media upload pipeline using **Multer** and **Cloudinary**.
-*   Integrated backend API handlers to parse multi-part form data and instantly retrieve cloud-hosted image assets.
+<!-- SECTION: CORE CORE COMPETENCIES -->
+## 🌐 Core Architecture & Tools
+*   **Backend & Security:** JWT (Token-Based Auth), Multer, Cloudinary Asset Pipelines.
+*   **Development Ecosystem:** Git/GitHub, Visual Studio Code, Vibe Coding.
 
 ---
 
-## 🎓 EDUCATION
+## 🚀 Featured Deployments (Projects)
 
-🎓 **Master of Computer Applications (MCA)**  
-*Baba Ghulam Shah Badshah University (BGSBU) — Rajouri*  
-📅 **Expected Graduation:** 2027
-
-🎓 **Bachelor of Computer Applications (BCA)**  
-*Shri Krishan Chander Govt. Degree College — Poonch*  
-📅 **Graduation Year:** 2025
-
-🎓 **Higher Secondary Education (10+2)**  
-*Govt Boys Higher Secondary School — Poonch*  
-📅 **Graduation Year:** 2021
-
----
-
-## 📜 PROFESSIONAL CERTIFICATIONS
-
-*   🥇 **JavaScript Algorithms and Data Structures** — [FreeCodeCamp Certification](https://www.freecodecamp.org/certification/safihyder/javascript-algorithms-and-data-structures) *(March 2023)*
-*   🥇 **Responsive Web Design** — [FreeCodeCamp Certification](https://www.freecodecamp.org/certification/safihyder/responsive-web-design) *(August 2022)*
+### 📱 Townpulse — Food Delivery Platform
+```text
+Developed a comprehensive food delivery platform featuring real-time order management and multi-role dashboards (customer, restaurant, delivery partner, admin). Integrated geolocation-based tracking and production payment processing with cross-platform mobile deployment.
+• Stack: React, Appwrite, Capacitor
